@@ -33,3 +33,5 @@ Files
 schematics/: schematic PDF
 images/: renders and photos
 <!-- Optional: add a "Results" section with test data or a short video once the system is flying. -->
+
+<img width="2160" height="2880" alt="empty" src="https://github.com/user-attachments/assets/6c16cc9b-0d1f-4f67-9ee8-2d44ef80dae5" />
