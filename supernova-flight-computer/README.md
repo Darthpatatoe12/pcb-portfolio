@@ -1,3 +1,5 @@
+<img width="3024" height="4032" alt="IMG_2555" src="https://github.com/user-attachments/assets/004157f2-e1bd-4f54-911c-865c18f83a37" />
+
 Supernova Flight Computer
 
 UHCL Rocket Club, Dec 2025 – Jun 2026 Avionics & PCB design: Jacob Flores (co-designer)
