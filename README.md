@@ -18,7 +18,7 @@ Each project folder has the schematics (PDF), 3D renders, and photos of the asse
 ---
 
 ## Skills
-- **PCB design:** Altium Designer, 4-layer stack-ups, signal-integrity simulation, IPC-2152 trace sizing
+- **PCB design:** Altium Designer, 4-layer stack-ups, signal-integrity simulation, IPC standards
 - **Assembly:** SMT hand-soldering, rework, board bring-up and debugging
 - **RF:** TI CC1120 / CC1200 transceivers. FCC Technician class amateur radio license
 - **Firmware & tools:** C, C++, Python, VHDL, MATLAB
